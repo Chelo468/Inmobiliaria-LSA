@@ -67,3 +67,7 @@ C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\bin\Microsoft.
 C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csprojResolveAssemblyReference.cache
 C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.dll
 C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\bin\Datos.dll
+C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\bin\Entidades.dll
+C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\bin\Datos.pdb
+C:\Users\Chelo\Desktop\Inmobiliaria-LSA\Inmobiliaria\Inmobiliaria\bin\Entidades.pdb

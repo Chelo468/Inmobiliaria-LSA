@@ -1,0 +1,18 @@
+﻿@using Entidades
+@{
+    Layout = null;
+}
+@model List<Cliente>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Model.First().nro_doc
+    </div>
+</body>
+</html>
